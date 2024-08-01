@@ -1,4 +1,4 @@
-# Sorting_Visualizer
+# SORTING_VISUALIZER
 
 A web application showcasing the inner workings of sorting algorithms.
 
